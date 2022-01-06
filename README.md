@@ -9,6 +9,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Special thanks to:
 
 1. [Quincy Larson](https://github.com/QuincyLarson)
-2. freeCodeCamp team members.
-3. React team members.
-4. [gitname](https://github.com/gitname).
+2. freeCodeCamp team members
+3. React team members
+4. [gitname](https://github.com/gitname)
